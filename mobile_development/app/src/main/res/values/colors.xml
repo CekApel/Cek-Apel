@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink">#ffad98</color>
+    <color name="green">#85ad67</color>
+    <color name="black">#333333</color>
+    <color name="white">#ffffff</color>
+
+    <!-- Background Colors -->
+    <color name="background_primary">#FFFFFF</color>
+    <color name="background_secondary">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Accent and State Colors -->
+    <color name="error_color">#D32F2F</color>
+
+    <!-- Additional Utility Colors -->
+    <color name="divider_color">#BDBDBD</color>
+    <color name="icon_color">#757575</color>
+
+
+    <color name="primary_text_color">#333333</color>
+    <color name="image_placeholder_background">#E0E0E0</color>
+    <color name="date_text_color">#888888</color>
+
+    <color name="switch_track_inactive">#B0BEC5</color>
+    <color name="thumb_tint_active">#A3C583</color>
+    <color name="thumb_tint_inactive">#888888</color>
+</resources>

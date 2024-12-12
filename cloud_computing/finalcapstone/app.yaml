@@ -1,0 +1,5 @@
+runtime: nodejs18
+instance_class: F2
+env_variables:
+  PORT: 8080
+  MODEL_URL: "https://storage.googleapis.com/cekapelbucket/models/model.json"
